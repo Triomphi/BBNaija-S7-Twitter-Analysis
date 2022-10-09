@@ -28,3 +28,5 @@ To learn more on how to use tweepy, check out these resources;
 Interact with the [PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjNjNzBlODMtOGY1Yy00NWIyLTllYWUtM2U1OTczODEzMWI3IiwidCI6ImNiN2Q1MWM0LTliMTYtNGVmNC1iODZmLTkzMDJhZmFiNmNlZSJ9)
 
 Read the full report on [Medium](https://ruchix18.medium.com/big-brother-naija-season-7-tweet-analysis-36573c95f41d)
+
+![Power BI dashboard](https://github.com/Triomphi/BBNaija-S7-Twitter-Analysis/blob/main/BBN_Dashboard.PNG)
