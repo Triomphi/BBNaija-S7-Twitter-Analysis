@@ -1,6 +1,6 @@
 import tweepy
 
-client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAADySVwEAAAAAZbV59jewVwJzlTFZNGnOwIGZXFw%3DL91sX1Q10uTFHscmq9fJzhW6CZvMbKuBnTzVDZKnPPpzVXnJaO')
+client = tweepy.Client(bearer_token='')  #insert your own token here
 
 # Replace with your own search query
 query = '#BBNaija -is:retweet lang:en'
